@@ -1,0 +1,4 @@
+ATTEMPTING PRINTF FOR THE FIRST TIME
+
+THE CODE WILL BE COMPILED USING
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
